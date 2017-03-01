@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">  
+<suite name="framework_testng">  
+    <test verbose="2" name="Test">  
+        <classes>  
+            <class name="web.Web" />  
+	   //         <methods>
+		//		<include name="asdasdsa2" />
+			//	<include name="dasdas" />
+				//</methods>
+        </classes>  
+    </test>  
+</suite>
